@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Report on Trails Near Packwood, WA</title>
+  <style>
+  </style>
+</head>
+<body>
+
+<h1>Some Trails Near Packwood, WA</h1>
+
+    <!-- show trail 1 data -->
+    <h2 id = "trail name 1"></h2>
+    <p id = "trail num 1"></p>
+    <p id = "trail length 1"></p>
+    <p id = "trail elev gain in 1"></p>
+    <p id = "trail elev gain out 1"></p>
+    <p id = "distance 1"></p>
+    <p id = "elevation gain 1"></p>
+
+    <!-- show trail 2 data -->
+    <h2 id = "trail name 2"></h2>
+    <p id = "trail num 2"></p>
+    <p id = "trail length 2"></p>
+    <p id = "trail elev gain in 2"></p>
+    <p id = "trail elev gain out 2"></p>
+    <p id = "distance 2"></p>
+    <p id = "elevation gain 2"></p>
+    
+<script>
+      // make the trail object using constructor notation
+function trail(name,
+               trailNumber,
+               lengthMiles,
+               elevGainIn,
+               elevGainOut) {
+               // properties
+               this.name = name;
+               this.trailNumber = trailNumber;
+               this.lengthMiles = lengthMiles;
+             //projection : ["UTM" || "Geographic"],
+             //startPosition[] : [],
+             //endPosition[] : [];
+               this.elevGainIn = elevGainIn;
+               this.elevGainOut = elevGainOut;
+               this.getRoundTripDist  = function () {
+                  return 2 * this.lengthMiles;
+               };
+               this.getElevGainTotal  = function () {
+                  return this.elevGainIn + this.elevGainOut;
+               };
+}
+
+// instantiate two trails
+var trailSouthPoint = new trail ("South Point", "273", 3.3, 2980, 0);
+var trailShrinerPeak = new trail ("Shriner Peak", "No number", 4.2, 3434, 0);
+
+//  get HTML elements for for trail 1
+var elName1 = document.getElementById('trail name 1');
+var elNum1 = document.getElementById('trail num 1');
+var elLength1 = document.getElementById('trail length 1');
+var elElevGainIn1 = document.getElementById('trail elev gain in 1');
+var elElevGainOut1 = document.getElementById('trail elev gain out 1');
+var elDistance1 = document.getElementById('distance 1');
+var elElevGain1 = document.getElementById('elevation gain 1');
+
+// update the HTML for trail 1
+elName1.textContent = "Trail Name: " + trailSouthPoint.name;
+elNum1.textContent = "Trail Number: " + trailSouthPoint.trailNumber;
+elLength1.textContent = "Trail length: " + trailSouthPoint.lengthMiles + " miles";
+elElevGainIn1.textContent = "Trail Elevation Gain In: " + trailSouthPoint.elevGainIn + " feet";
+elElevGainOut1.textContent = "Trail Elevation Gain Out: " + trailSouthPoint.elevGainOut + " feet";
+elDistance1.textContent = "Distance Round Trip: " + trailSouthPoint.getRoundTripDist() + " miles";
+elElevGain1.textContent = "Total Elevation Gain: "  + trailSouthPoint.getElevGainTotal() + " feet";
+
+// get HTML elements for trail 2
+var elName2 = document.getElementById('trail name 2');
+var elNum2 = document.getElementById('trail num 2');
+var elLength2 = document.getElementById('trail length 2');
+var elElevGainIn2 = document.getElementById('trail elev gain in 2');
+var elElevGainOut2 = document.getElementById('trail elev gain out 2');
+var elDistance2 = document.getElementById('distance 2');
+var elElevGain2 = document.getElementById('elevation gain 2');
+
+// update the HTML for trail 2
+elName2.textContent = "Trail Name: " + trailShrinerPeak.name;
+elNum2.textContent = "Trail Number: " + trailShrinerPeak.trailNumber;
+elLength2.textContent = "Trail length: " + trailShrinerPeak.lengthMiles + " miles";
+elElevGainIn2.textContent = "Trail Elevation Gain In: " + trailShrinerPeak.elevGainIn + " feet";
+elElevGainOut2.textContent = "Trail Elevation Gain Out: " + trailShrinerPeak.elevGainOut + " feet";
+elDistance2.textContent = "Distance Round Trip: " + trailShrinerPeak.getRoundTripDist() + " miles";
+elElevGain2.textContent = "Total Elevation Gain: "  + trailShrinerPeak.getElevGainTotal() + " feet";
+
+</script>
+
+</body>
+</html>
