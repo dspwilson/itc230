@@ -1,0 +1,23 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Simple server for static file, using node.  Mostly copied from textbook",
+  "main": "simple-serve-static-file.js",
+  "scripts": {
+    "test": "node simple-serve-static-file"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dspwilson.github.io/itc230/"
+  },
+  "keywords": [
+    "ITC230",
+    "Derek",
+    "S",
+    "Wilson",
+    "assignment",
+    "1"
+  ],
+  "author": "Derek S Wilson",
+  "license": "ISC"
+}
