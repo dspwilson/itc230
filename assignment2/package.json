@@ -1,0 +1,21 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Read GeoJSON file of Seattle Public Art and provides get and delete methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dspwilson/itc230/tree/master/assignment2"
+  },
+  "keywords": [
+    "ITC230",
+    "Seattle",
+    "Public",
+    "Art"
+  ],
+  "author": "Derek S Wilson",
+  "license": "ISC"
+}
