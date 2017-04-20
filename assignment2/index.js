@@ -47,14 +47,27 @@ http.createServer((req,res) => {
       res.end('About Seattle Public Art by Ohanapecosh Maps');
       break;
     case '/get':
-      let getTitle = params.title;  // title of art to get
-      let foundArt = publicArt.get(getTitle); // get public art object
+      /* array titles logic */
+      let getTitles = []; // could be array of requested titles to get
+      getTitles.push(params.title);  // push titles reuqested onto array of titles
+      var foundArt = []; // array to contain public art objects
+      let currentLength; // holds current length
+      getTitles.forEach(function(title){
+        let getResult = publicArt.get(title);
+        foundArt.push(getResult.foundArt); // get public art objects into array
+        currentLength = getResult.currentLength;  // will have length from last title
+      });
+      /* array return titles logic */
       res.writeHead(200, {'Content-Type': 'text/plain'});
-        if (!foundArt) { // title(s) not found case
-          res.end('Results for ' + getTitle + '\n' + 'That title not found.\n');
-        } else { // found title(s)
-          res.end('Results for ' + getTitle + '\n' + JSON.stringify(foundArt) + '\n');
+      foundArt.forEach(function(thisArt) {
+        if (!thisArt) {
+          res.write('Results for ' + params.title + '\n' + 'That title not found.\n'
+                     + currentLength + ' art objects available.');
+        } else {
+          res.end('Results for ' + params.title + '\n' + JSON.stringify(thisArt) + '\n'
+                   + currentLength + ' art objects available.');
         }
+      });
       break;
     case '/delete':
       let deleteTitle = params.title;  // title of art to delete
@@ -66,6 +79,16 @@ http.createServer((req,res) => {
         res.end('Deleted ' + deleteTitle + '. ' + 'Now ' + deleteResult.newLength + ' art objects remain.\n');
       }
       break;
+    case '/add' :
+      let addTitle = params.title;  // title of art to delete
+      let addResult = publicArt.add(addTitle);
+      res.writeHead(200, {'Content-Type': 'text/plain'});
+      if (addResult.numAdded == 0) {  // if nothing added, failed
+        res.end('Title not added. ' + addResult.newLength + ' art objects remain.\n');
+      } else {  // number add not 0, so title added
+        res.end('Added ' + addTitle + '. ' + 'Now ' + addResult.newLength + ' art objects remain.\n');
+      }
+    break;  
     default:
       console.log('Got unknown request...');
       res.writeHead(404, {'Content-Type': 'text/plain'});
