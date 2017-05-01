@@ -1,0 +1,42 @@
+/* home.css
+/  CSS style for mpg-calculator.hmtl
+/
+/  WEB 150 Introduction to JavaScript
+/  Seattle Central College
+/
+/  February 2017
+/
+/  Derek S Wilson
+/
+*/
+     #page {
+          background-color: lightblue;
+          height: 200px;
+          width: 600px;
+     }
+     h2 {
+          text-align: center;
+          margin-top: 2%;
+     }
+   fieldset {
+        margin-left: 5%;
+        margin-top: 2%;
+        width: 500px;
+        border: 2px solid gray;
+        border-radius: 10px;
+        }
+     legend {
+        color: royalblue;
+        font-size: larger;
+     }
+    .titles {
+          float: left;
+          text-align: right;
+          width:170px;
+          padding-left: 1%;
+          padding-right: 1%;
+        }
+    .buttons {
+      padding-top: 1%;
+      padding-left: 36%;
+    }
