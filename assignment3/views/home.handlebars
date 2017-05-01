@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--home.html                           -->
+<!--                                    -->
+<!-- April 2017                         -->
+<!--                                    -->
+<!-- Seattle Central College            -->
+<!-- ITC 230 Advanced JavaScript        -->
+<!-- Assignment 3                       -->
+<!--                                    -->
+<!-- Derek S Wilson                     -->
+<!--                                    -->
+<!--                                    -->
+<html>
+<head>
+  <title>Search for Seattle Public Art</title>
+  <link rel="stylesheet" href='home.css'/>
+</head>
+<body>
+  <div id="page">
+	
+  <!--Make form to get data and report calculation-->
+  <form id = 'get-art-title' method="POST" action='/get-art-title'>
+    <fieldset>
+      <legend>Seattle Public Art Title Request</legend>
+      
+      <!-- Title Input -->
+      <div class='inputs'>
+      <label for='artTitle'>Enter Art Title:</label>
+      <input type='text' id='artTitle' name='artTitle' autofocus>
+      <input id='search' type='submit' value='Search' />
+      </div>
+      
+      <!--    Button -->
+      <div class='buttons'>
+
+      </div>
+    </fieldset>
+  </form>      
+</div>
+
+{{{body}}}
+
+</body>
+</html>

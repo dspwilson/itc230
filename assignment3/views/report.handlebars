@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--report.html                           -->
+<!--                                    -->
+<!-- April 2017                         -->
+<!--                                    -->
+<!-- Seattle Central College            -->
+<!-- ITC 230 Advanced JavaScript        -->
+<!-- Assignment 3                       -->
+<!--                                    -->
+<!-- Derek S Wilson                     -->
+<!--                                    -->
+<!--                                    -->
+<html>
+<head>
+  <title>Report on Seattle Public Art</title>
+  <link rel="stylesheet" href='home.css'/>
+</head>
+<body>
+  <div id="page">
+	
+	<h2>Details for {{Title}}</h2>
+  {{#if foundArt}}
+    
+    <li>Title: {{ foundArt.attributes.Title }}
+    <li>Artist: {{ foundArt.attributes.Artist }}
+    <li>Description: {{ foundArt.attributes.Description }}
+    <li>Address: {{ foundArt.attributes.ADDRESS }}
+    
+    <!--Make form to get data and report calculation-->
+    <form id = 'delete-art-title' method="POST" action='/delete-art-title'>
+      <!-- Delete Title Input -->
+      <div class='inputs'>
+      <label for='deleteArtTitle'>Delete {{Title}}?</label>
+      <input id='deleteArtTitle' name='deleteArtTitle' type=text value={{Title}} />
+      <input id='delete' type='submit' value='Delete' />
+      </div>
+    </form>      
+  {{else}}
+    {{ Title }} not found.
+  {{/if}}
+  
+
+</div>
+
+{{{body}}}
+
+</body>
+</html>
