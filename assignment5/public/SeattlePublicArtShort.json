@@ -1,0 +1,302 @@
+{
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "Title" : "Cascadia",
+        "Artist" : "John Hoge",
+        "Installed_Date" : "1999-2000",
+        "SPONSER" : null,
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : "505 Union Station Building ",
+        "Description" : "Polished stone and fountain",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=252",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315526400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 402,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271648.3577182591,
+        "y" : 221617.82991559803
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "Title" : "Bridge Between Cultures",
+        "Artist" : "Fernanda D'Agostino and Valerie Otani",
+        "Installed_Date" : "1999",
+        "SPONSER" : "4Culture & King County Metro Transit Division Collection",
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : "4th Ave S & S Weller",
+        "Description" : "Mixed-media bridge installation",
+        "WEBSITE" : "http://www.4culture.org/publicart/collection/profile.aspx?projectID=40 ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315526400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 501,
+        "OverLappingArtDistrict" : "3",
+        "OverLappingArtID" : 401,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "4Culture & King County Metro"
+      },
+      "geometry" : {
+        "x" : 1271272.5083462447,
+        "y" : 221570.16134431958
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 115,
+        "Title" : "Historic Chinatown Gate (Chong Wa Gate)",
+        "Artist" : "MulvannyG2 Architecture and Paul Wu",
+        "Installed_Date" : "2008",
+        "SPONSER" : "Historic Chinatown Gate Foundation ",
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : "5th Ave S & S King St",
+        "Description" : "Ceramic Tile and steel gate",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315526400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 413,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271818.8148580641,
+        "y" : 221837.14092878997
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "Title" : "Pillar Arc",
+        "Artist" : "Ming Fay",
+        "Installed_Date" : "2004",
+        "SPONSER" : "General Service Administration",
+        "COMMON_NAM" : "Denny Triangle",
+        "ADDRESS" : "700 Stewart St",
+        "Description" : "28 foot cast aluminum",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315699200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269779.0500863642,
+        "y" : 227821.95623414218
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "Title" : "Three Women: Girl, Young Woman, Mother and Child",
+        "Artist" : "Akio Takamori",
+        "Installed_Date" : "2006",
+        "SPONSER" : "Vulcan Incorporated Collection",
+        "COMMON_NAM" : "Denny Triangle",
+        "ADDRESS" : "2270 Westlake Ave",
+        "Description" : "Painted cast aluminum sculpture",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315699200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269300.0076012909,
+        "y" : 229142.31037722528
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "Title" : "Plaza Seat Cubes",
+        "Artist" : "Elizabeth Conner",
+        "Installed_Date" : "1999",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "Denny Triangle - West Police Precinct",
+        "ADDRESS" : "810 Virginnia Street",
+        "Description" : "Concrete seat cubes",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315699200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269692.7242065817,
+        "y" : 228317.73473979533
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "Title" : "Heaven, Man, & Earth",
+        "Artist" : "George Tsutakawa",
+        "Installed_Date" : "1978",
+        "SPONSER" : "City of Seattle ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Maynard Ave S  & S Jackson St West sidewalk",
+        "Description" : "Bronze Sculpture",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=137",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 429,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272419.8820659518,
+        "y" : 222044.5673481822
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "Title" : "Thread",
+        "Artist" : "Nichols Meisel",
+        "Installed_Date" : "2004",
+        "SPONSER" : "City of Seattle ",
+        "COMMON_NAM" : "International District - Chinatown Community Center",
+        "ADDRESS" : "719 8th Ave S",
+        "Description" : "Cut and laminated polyethylene panels on library wall",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=2",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 423,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273001.8644087017,
+        "y" : 220981.81730149686
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 121,
+        "Title" : "Benches, Bull, and Fish",
+        "Artist" : "Hai Ying Wu",
+        "Installed_Date" : "1998",
+        "SPONSER" : "City of Seattle ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "International District Village Square between Lane & Dearborn",
+        "Description" : "Steel sculpture on poles",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 421,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273093.5977001488,
+        "y" : 221052.67653574049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "Title" : "Wellspring",
+        "Artist" : "Rene Yung",
+        "Installed_Date" : "2005",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "International District Branch Library",
+        "ADDRESS" : "713 8th Ave S",
+        "Description" : "Tea cups, MDF, paint sculpture",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=12",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 422,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272993.6697975397,
+        "y" : 221034.53709940612
+      }
+    }
+  ]
+}

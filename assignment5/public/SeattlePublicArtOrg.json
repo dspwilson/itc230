@@ -1,0 +1,5905 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Title" : "Title",
+    "Artist" : "Artist",
+    "Installed_Date" : "Installed_Date",
+    "SPONSER" : "SPONSER",
+    "COMMON_NAM" : "COMMON_NAM",
+    "ADDRESS" : "ADDRESS",
+    "Description" : "Description",
+    "WEBSITE" : "WEBSITE",
+    "LONGITUDE" : "LONGITUDE",
+    "LATITUDE" : "LATITUDE",
+    "ACQ_Date" : "ACQ_Date",
+    "ACQ_By" : "Captured_By",
+    "ArtDistrict" : "ArtDistrict",
+    "ArtID" : "Public Art Identification Number",
+    "OverLappingArtDistrict" : "OverLappingArtDistrict",
+    "OverLappingArtID" : "Overlapping District Public Art Identification Number",
+    "RuleID" : "RuleID",
+    "Override" : "Override",
+    "KML_Point" : "KML_Point",
+    "Override_1" : "Override_1",
+    "AbbreviatedSponsor" : "Abbreviated Sponsor Name"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 2926,
+    "latestWkid" : 2926
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Title",
+      "type" : "esriFieldTypeString",
+      "alias" : "Title",
+      "length" : 255
+    },
+    {
+      "name" : "Artist",
+      "type" : "esriFieldTypeString",
+      "alias" : "Artist",
+      "length" : 255
+    },
+    {
+      "name" : "Installed_Date",
+      "type" : "esriFieldTypeString",
+      "alias" : "Installed_Date",
+      "length" : 255
+    },
+    {
+      "name" : "SPONSER",
+      "type" : "esriFieldTypeString",
+      "alias" : "SPONSER",
+      "length" : 255
+    },
+    {
+      "name" : "COMMON_NAM",
+      "type" : "esriFieldTypeString",
+      "alias" : "COMMON_NAM",
+      "length" : 255
+    },
+    {
+      "name" : "ADDRESS",
+      "type" : "esriFieldTypeString",
+      "alias" : "ADDRESS",
+      "length" : 255
+    },
+    {
+      "name" : "Description",
+      "type" : "esriFieldTypeString",
+      "alias" : "Description",
+      "length" : 255
+    },
+    {
+      "name" : "WEBSITE",
+      "type" : "esriFieldTypeString",
+      "alias" : "WEBSITE",
+      "length" : 256
+    },
+    {
+      "name" : "LONGITUDE",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LONGITUDE"
+    },
+    {
+      "name" : "LATITUDE",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LATITUDE"
+    },
+    {
+      "name" : "ACQ_Date",
+      "type" : "esriFieldTypeDate",
+      "alias" : "ACQ_Date",
+      "length" : 8
+    },
+    {
+      "name" : "ACQ_By",
+      "type" : "esriFieldTypeString",
+      "alias" : "Captured_By",
+      "length" : 255
+    },
+    {
+      "name" : "ArtDistrict",
+      "type" : "esriFieldTypeString",
+      "alias" : "ArtDistrict",
+      "length" : 255
+    },
+    {
+      "name" : "ArtID",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Public Art Identification Number"
+    },
+    {
+      "name" : "OverLappingArtDistrict",
+      "type" : "esriFieldTypeString",
+      "alias" : "OverLappingArtDistrict",
+      "length" : 255
+    },
+    {
+      "name" : "OverLappingArtID",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Overlapping District Public Art Identification Number"
+    },
+    {
+      "name" : "RuleID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "RuleID"
+    },
+    {
+      "name" : "Override",
+      "type" : "esriFieldTypeBlob",
+      "alias" : "Override"
+    },
+    {
+      "name" : "KML_Point",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "KML_Point"
+    },
+    {
+      "name" : "Override_1",
+      "type" : "esriFieldTypeBlob",
+      "alias" : "Override_1"
+    },
+    {
+      "name" : "AbbreviatedSponsor",
+      "type" : "esriFieldTypeString",
+      "alias" : "Abbreviated Sponsor Name",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Woodland Park Zoo",
+        "ADDRESS" : "5500 Phinney Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=8",
+        "LONGITUDE" : -122.353686,
+        "LATITUDE" : 47.668531999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265840.0239943862,
+        "y" : 247560.0608485043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 2,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Woodland Park Zoo",
+        "ADDRESS" : "5500 Phinney Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=9",
+        "LONGITUDE" : -122.353686,
+        "LATITUDE" : 47.668531999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265840.0239943862,
+        "y" : 247560.0608485043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 3,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Center",
+        "ADDRESS" : "400 Broad St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=8&item=1",
+        "LONGITUDE" : -122.349301,
+        "LATITUDE" : 47.620493000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1266575.0752671659,
+        "y" : 230019.17630083859
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 4,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Center",
+        "ADDRESS" : "200 2nd Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=8&item=2",
+        "LONGITUDE" : -122.35110400000001,
+        "LATITUDE" : 47.619739000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1266125.0844044685,
+        "y" : 229752.96063192189
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 5,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Center",
+        "ADDRESS" : "321 Mercer St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=8&item=3",
+        "LONGITUDE" : -122.351434,
+        "LATITUDE" : 47.623945999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1266073.9849248827,
+        "y" : 231288.83482183516
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 6,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Alki Beach",
+        "ADDRESS" : "West Seattle Cultural Trail Alki Point to Duwamish Head",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=3&item=3",
+        "LONGITUDE" : -122.39584499999999,
+        "LATITUDE" : 47.588250000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1254859.9779074937,
+        "y" : 218490.05060203373
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 7,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Terminal 107",
+        "ADDRESS" : "4700 W Marginal Wy S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=3&item=4",
+        "LONGITUDE" : -122.3386,
+        "LATITUDE" : 47.558867999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1268773.9793010652,
+        "y" : 207493.02877730131
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 8,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Belltown Neighborhood",
+        "ADDRESS" : "2nd Ave between Virginia St and Denny Wy",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=3&item=1",
+        "LONGITUDE" : -122.34688800000001,
+        "LATITUDE" : 47.614905999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1267129.9716547281,
+        "y" : 227969.91437536478
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 9,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "South Lake Union",
+        "ADDRESS" : "Westlake Avenue North from Galer Street to Crockett Street",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=3&item=2",
+        "LONGITUDE" : -122.336574,
+        "LATITUDE" : 47.626365,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269755.0222823471,
+        "y" : 232099.10354943573
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 10,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Public Utilities Operations Control Center",
+        "ADDRESS" : "2700 Airport Wy S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=6&item=2",
+        "LONGITUDE" : -122.320745,
+        "LATITUDE" : 47.579185000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273324.9647186995,
+        "y" : 214816.85935541987
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 11,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "81 Vine Street",
+        "ADDRESS" : "81 Vine St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=6&item=3",
+        "LONGITUDE" : -122.35024300000001,
+        "LATITUDE" : 47.614548999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1266300.0712632537,
+        "y" : 227856.01031953096
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 12,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Light North Service Center",
+        "ADDRESS" : "1300 N 97th Street",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=6&item=4",
+        "LONGITUDE" : -122.341607,
+        "LATITUDE" : 47.699781000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269038.9895477593,
+        "y" : 258897.88750082254
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 13,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Cal Anderson Park",
+        "ADDRESS" : "1635 11th Ave E",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=6&item=5",
+        "LONGITUDE" : -122.31836699999999,
+        "LATITUDE" : 47.615448999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1274167.0218896568,
+        "y" : 228030.90404190123
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 14,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Southwest Police Precinct",
+        "ADDRESS" : "2300 SW Webster",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=7&item=2",
+        "LONGITUDE" : -122.362049,
+        "LATITUDE" : 47.535780000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262818.0132421404,
+        "y" : 199187.12102600932
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 15,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Southwest Police Precinct",
+        "ADDRESS" : "2300 SW Webster",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=7&item=3",
+        "LONGITUDE" : -122.362049,
+        "LATITUDE" : 47.535780000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262818.0132421404,
+        "y" : 199187.12102600932
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 16,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Pratt Park",
+        "ADDRESS" : "1800 S Main St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=10",
+        "LONGITUDE" : -122.307197,
+        "LATITUDE" : 47.600924999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1276820.0516987592,
+        "y" : 222681.06618735194
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 17,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Douglass-Truth Branch Library",
+        "ADDRESS" : "2300 E Yesler Wy",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=10",
+        "LONGITUDE" : -122.301833,
+        "LATITUDE" : 47.601905000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1278149.9902683496,
+        "y" : 223013.17377857864
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 18,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Hall",
+        "ADDRESS" : "600 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=1",
+        "LONGITUDE" : -122.329706,
+        "LATITUDE" : 47.603772999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271288.0592777878,
+        "y" : 223826.8810377419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 19,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Hall",
+        "ADDRESS" : "600 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=3",
+        "LONGITUDE" : -122.329706,
+        "LATITUDE" : 47.603772999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271288.0592777878,
+        "y" : 223826.8810377419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 20,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Hall",
+        "ADDRESS" : "600 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=4",
+        "LONGITUDE" : -122.329706,
+        "LATITUDE" : 47.603772999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271288.0592777878,
+        "y" : 223826.8810377419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 21,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Hall",
+        "ADDRESS" : "600 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=5",
+        "LONGITUDE" : -122.329706,
+        "LATITUDE" : 47.603772999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271288.0592777878,
+        "y" : 223826.8810377419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 22,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=7",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 23,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=8",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 24,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=11",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 25,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=12",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 26,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=13",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 27,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "610 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=16",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 28,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=10",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 29,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=15",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 30,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Delridge Community Center",
+        "ADDRESS" : "4501 Delridge Wy SW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=4",
+        "LONGITUDE" : -122.36411099999999,
+        "LATITUDE" : 47.563090000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262506.8984386772,
+        "y" : 209157.00445383787
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 31,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Delridge Community Center",
+        "ADDRESS" : "4501 Delridge Wy SW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=5",
+        "LONGITUDE" : -122.36411099999999,
+        "LATITUDE" : 47.563090000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262506.8984386772,
+        "y" : 209157.00445383787
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 32,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Delridge Community Center",
+        "ADDRESS" : "4501 Delridge Wy SW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=6",
+        "LONGITUDE" : -122.36411099999999,
+        "LATITUDE" : 47.563090000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262506.8984386772,
+        "y" : 209157.00445383787
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 33,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "High Point Community Center",
+        "ADDRESS" : "6920 34th Ave SW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=1",
+        "LONGITUDE" : -122.374414,
+        "LATITUDE" : 47.540669000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1259799.9267485589,
+        "y" : 201031.01504404843
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 35,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=3",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 36,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=5",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 37,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=6",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 38,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=8",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 39,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=9",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 40,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Meadowbrook Pond",
+        "ADDRESS" : "107th St NE & 35th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=6&view=2&img=0&item=17",
+        "LONGITUDE" : -122.37597,
+        "LATITUDE" : 47.507289999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1259171.6288861036,
+        "y" : 188865.67256395519
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 41,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Bitter Lake Community Center",
+        "ADDRESS" : "13035 Linden Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=15",
+        "LONGITUDE" : -122.34863,
+        "LATITUDE" : 47.724060000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1267484.3294326365,
+        "y" : 267786.30875721574
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 42,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Garfield Community Center",
+        "ADDRESS" : "2323 E Cherry St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=17",
+        "LONGITUDE" : -122.30225,
+        "LATITUDE" : 47.607750000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1278087.8255898207,
+        "y" : 225146.80097059906
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 43,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Center",
+        "ADDRESS" : "305 Harrison St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=8&view=2&img=0&item=4",
+        "LONGITUDE" : -122.35398000000001,
+        "LATITUDE" : 47.622079999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265432.8094266951,
+        "y" : 230620.71061977744
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 44,
+        "Title" : "Call and Response",
+        "Artist" : "Stuart Nakamura",
+        "Installed_Date" : "2008",
+        "SPONSER" : "Fleet and Facilities Dept",
+        "COMMON_NAM" : "Fire Station #10",
+        "ADDRESS" : "400 S Washington St",
+        "Description" : "A large boulder etched with abstract lines",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=7&view=2&img=0&item=6",
+        "LONGITUDE" : -122.32872999999999,
+        "LATITUDE" : 47.601019999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : "3",
+        "ArtID" : 435,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271509.2788268477,
+        "y" : 222818.1922750622
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 45,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Columbia City Branch Library",
+        "ADDRESS" : "4721 Rainier Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=20",
+        "LONGITUDE" : -122.28688,
+        "LATITUDE" : 47.559950000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1281549.2929407954,
+        "y" : 207642.15573820472
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 46,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Northgate Branch Library",
+        "ADDRESS" : "10548 5th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=23",
+        "LONGITUDE" : -122.32266,
+        "LATITUDE" : 47.706200000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273748.9765926152,
+        "y" : 261148.02426806092
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 47,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Beacon Hill Branch Library",
+        "ADDRESS" : "2821 Beacon Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=17",
+        "LONGITUDE" : -122.31141,
+        "LATITUDE" : 47.578049999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1275620.5979152173,
+        "y" : 214358.53817383945
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 48,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "I-5 Colonnade Park",
+        "ADDRESS" : "Beneath I-5 at E Howe St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&view=2&img=0&item=13",
+        "LONGITUDE" : -122.32299999999999,
+        "LATITUDE" : 47.636000000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273169.6390557587,
+        "y" : 235547.87554723024
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 49,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Myrtle Edwards Park",
+        "ADDRESS" : "3130 Alaskan Way",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=1",
+        "LONGITUDE" : -122.35726699999999,
+        "LATITUDE" : 47.617336999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1264588.09981592,
+        "y" : 228907.00189886987
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 50,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Volunteer Park",
+        "ADDRESS" : "1400 E Galer St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=5",
+        "LONGITUDE" : -122.31574000000001,
+        "LATITUDE" : 47.632280999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1274933.092827931,
+        "y" : 234157.00340753794
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 51,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Fauntleroy Creek",
+        "ADDRESS" : "Fauntleroy Wy SW and SW Henderson St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=6&item=1",
+        "LONGITUDE" : -122.392431,
+        "LATITUDE" : 47.522441000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1255215.9915248007,
+        "y" : 194473.07515929639
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 52,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Southwest Police Precinct",
+        "ADDRESS" : "2300 SW Webster",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=7&item=1",
+        "LONGITUDE" : -122.362049,
+        "LATITUDE" : 47.535780000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262818.0132421404,
+        "y" : 199187.12102600932
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 53,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Southwest Police Precinct",
+        "ADDRESS" : "2300 SW Webster",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=7&item=4",
+        "LONGITUDE" : -122.362049,
+        "LATITUDE" : 47.535780000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262818.0132421404,
+        "y" : 199187.12102600932
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 54,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Hall",
+        "ADDRESS" : "600 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=2",
+        "LONGITUDE" : -122.329706,
+        "LATITUDE" : 47.603772999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271288.0592777878,
+        "y" : 223826.8810377419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 55,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle City Hall",
+        "ADDRESS" : "600 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=6",
+        "LONGITUDE" : -122.329706,
+        "LATITUDE" : 47.603772999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271288.0592777878,
+        "y" : 223826.8810377419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 56,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=9",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 57,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Justice Center",
+        "ADDRESS" : "600 5th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=4&item=14",
+        "LONGITUDE" : -122.329188,
+        "LATITUDE" : 47.604205,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271418.8873586655,
+        "y" : 223981.94561439753
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 58,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Delridge Community Center",
+        "ADDRESS" : "4501 Delridge Wy SW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=3",
+        "LONGITUDE" : -122.36411099999999,
+        "LATITUDE" : 47.563090000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262506.8984386772,
+        "y" : 209157.00445383787
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 59,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Delridge Community Center",
+        "ADDRESS" : "4501 Delridge Wy SW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=7",
+        "LONGITUDE" : -122.36411099999999,
+        "LATITUDE" : 47.563090000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262506.8984386772,
+        "y" : 209157.00445383787
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 60,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=4",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 61,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Central Library",
+        "ADDRESS" : "1000 4th Ave",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=7",
+        "LONGITUDE" : -122.332967,
+        "LATITUDE" : 47.606485999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270503.0131144226,
+        "y" : 224831.95969484746
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 62,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Southpart Branch Library",
+        "ADDRESS" : "8604 8th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=2",
+        "LONGITUDE" : -122.32259500000001,
+        "LATITUDE" : 47.526265000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272494.9090246707,
+        "y" : 195525.94394125044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 63,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Green Lake Community Center",
+        "ADDRESS" : "7201 E Green Lake Dr N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=52",
+        "LONGITUDE" : -122.326117,
+        "LATITUDE" : 47.68036,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272715.157402575,
+        "y" : 251740.72843697667
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 65,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Rainier Community Center",
+        "ADDRESS" : "4600 38th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=31",
+        "LONGITUDE" : -122.28435,
+        "LATITUDE" : 47.561540000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1282184.787505433,
+        "y" : 208210.24115592241
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 66,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Rainier Community Center",
+        "ADDRESS" : "4600 38th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=32",
+        "LONGITUDE" : -122.28435,
+        "LATITUDE" : 47.561540000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1282184.787505433,
+        "y" : 208210.24115592241
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 67,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Rainier Community Center",
+        "ADDRESS" : "4600 38th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=33",
+        "LONGITUDE" : -122.28435,
+        "LATITUDE" : 47.561540000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1282184.787505433,
+        "y" : 208210.24115592241
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 68,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Kreielsheimer Promenade At Mccaw Hall",
+        "ADDRESS" : "321 Mercer St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=8&view=2&img=0&item=4",
+        "LONGITUDE" : -122.35142999999999,
+        "LATITUDE" : 47.623950000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1266074.9999222606,
+        "y" : 231290.27414189279
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 69,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Lake City",
+        "ADDRESS" : "12301 Lake City Wy NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=9&view=2&img=0&item=4",
+        "LONGITUDE" : -122.29621,
+        "LATITUDE" : 47.718060000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1280342.3255156279,
+        "y" : 265348.469412148
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 71,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Columbia Public Health Center",
+        "ADDRESS" : "4400 37th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=4&view=2&img=0&item=17",
+        "LONGITUDE" : -122.28572,
+        "LATITUDE" : 47.563639999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1281861.0532544553,
+        "y" : 208982.49144765735
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 74,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Montlake Community Center",
+        "ADDRESS" : "1618 E Calhoun St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=10",
+        "LONGITUDE" : -122.30995,
+        "LATITUDE" : 47.6417,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1276426.3464338779,
+        "y" : 237564.65241847932
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 75,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Southwest Community Center",
+        "ADDRESS" : "2801 SW Thistle St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=9",
+        "LONGITUDE" : -122.36918,
+        "LATITUDE" : 47.528010000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1261000.30241853,
+        "y" : 196388.53297491372
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 76,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Laurelhurst Community Center",
+        "ADDRESS" : "4554 NE 41st St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=8",
+        "LONGITUDE" : -122.27793,
+        "LATITUDE" : 47.659149999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1284437.9095520377,
+        "y" : 243778.8840393424
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 77,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Lake City Branch Library",
+        "ADDRESS" : "12501 28th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=22",
+        "LONGITUDE" : -122.29809,
+        "LATITUDE" : 47.719859999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1279892.1320312768,
+        "y" : 266013.73257759213
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 78,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Greenwood Branch Library",
+        "ADDRESS" : "8016 Greenwood Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=21",
+        "LONGITUDE" : -122.35496000000001,
+        "LATITUDE" : 47.6875,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265662.9781448841,
+        "y" : 254483.79319500923
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 79,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Capitol Hill Branch Library",
+        "ADDRESS" : "425 Harvard Ave E",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=13",
+        "LONGITUDE" : -122.32245,
+        "LATITUDE" : 47.622909999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273212.8268876672,
+        "y" : 230771.36660853028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 80,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Ballard Branch Library",
+        "ADDRESS" : "5614 22nd Ave NW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=14",
+        "LONGITUDE" : -122.38420000000001,
+        "LATITUDE" : 47.669840000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1258332.7642845511,
+        "y" : 248187.09097194672
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 81,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Ballard Branch Library",
+        "ADDRESS" : "5614 22nd Ave NW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=17",
+        "LONGITUDE" : -122.38420000000001,
+        "LATITUDE" : 47.669840000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1258332.7642845511,
+        "y" : 248187.09097194672
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 82,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Beacon Hill Branch Library",
+        "ADDRESS" : "2821 Beacon Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=16",
+        "LONGITUDE" : -122.31141,
+        "LATITUDE" : 47.578049999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1275620.5979152173,
+        "y" : 214358.53817383945
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 83,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Broadview Branch Library",
+        "ADDRESS" : "12755 Greenwood Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=18",
+        "LONGITUDE" : -122.35603,
+        "LATITUDE" : 47.722999999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265655.6894940883,
+        "y" : 267435.67963951826
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 84,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Broadview Branch Library",
+        "ADDRESS" : "12755 Greenwood Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=19",
+        "LONGITUDE" : -122.35603,
+        "LATITUDE" : 47.722999999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265655.6894940883,
+        "y" : 267435.67963951826
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 85,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Warren G. Magnuson Park",
+        "ADDRESS" : "6550 Sand Point Wy NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&view=2&img=0&item=11",
+        "LONGITUDE" : -122.26355,
+        "LATITUDE" : 47.676200000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1288096.6079651862,
+        "y" : 249930.88079425693
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 86,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Sam Smith Park",
+        "ADDRESS" : "1400 K L King JR WAY S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&view=2&img=0&item=12",
+        "LONGITUDE" : -122.29671999999999,
+        "LATITUDE" : 47.590580000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1279332.6240413785,
+        "y" : 218858.9288623333
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 87,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Fremont Ave N & N 34th St",
+        "ADDRESS" : "Fremont Ave N & N 34th St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=3&view=2&img=0&item=9",
+        "LONGITUDE" : -122.34975,
+        "LATITUDE" : 47.649590000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1266673.4901651591,
+        "y" : 240632.87691845
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 88,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Bitter Lake Community Center",
+        "ADDRESS" : "13035 Linden Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=11",
+        "LONGITUDE" : -122.34863,
+        "LATITUDE" : 47.724060000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1267484.3294326365,
+        "y" : 267786.30875721574
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 89,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Bitter Lake Community Center",
+        "ADDRESS" : "13035 Linden Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=13",
+        "LONGITUDE" : -122.34863,
+        "LATITUDE" : 47.724060000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1267484.3294326365,
+        "y" : 267786.30875721574
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 90,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Bitter Lake Community Center",
+        "ADDRESS" : "13035 Linden Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=14",
+        "LONGITUDE" : -122.34863,
+        "LATITUDE" : 47.724060000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1267484.3294326365,
+        "y" : 267786.30875721574
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 91,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Longfellow Creek Trail",
+        "ADDRESS" : "26th Ave SW & SW Genesee St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=3&view=2&img=0&item=10",
+        "LONGITUDE" : -122.36546,
+        "LATITUDE" : 47.564729999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1262185.8179423809,
+        "y" : 209761.72783726454
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 92,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "High Point Branch Library",
+        "ADDRESS" : "3411 SW Raymond St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=11",
+        "LONGITUDE" : -122.37581,
+        "LATITUDE" : 47.54804,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1259509.0751073062,
+        "y" : 203726.06465893984
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 93,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Garfield Community Center",
+        "ADDRESS" : "2323 E Cherry St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=16",
+        "LONGITUDE" : -122.30225,
+        "LATITUDE" : 47.607750000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1278087.8255898207,
+        "y" : 225146.80097059906
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 94,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Garfield Community Center",
+        "ADDRESS" : "2323 E Cherry St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=18",
+        "LONGITUDE" : -122.30225,
+        "LATITUDE" : 47.607750000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1278087.8255898207,
+        "y" : 225146.80097059906
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 95,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Meadowbrook Community Center",
+        "ADDRESS" : "10517 35th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=20",
+        "LONGITUDE" : -122.29179999999999,
+        "LATITUDE" : 47.705440000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1281340.4418046921,
+        "y" : 260725.33911149204
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 96,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Meadowbrook Community Center",
+        "ADDRESS" : "10517 35th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=22",
+        "LONGITUDE" : -122.29179999999999,
+        "LATITUDE" : 47.705440000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1281340.4418046921,
+        "y" : 260725.33911149204
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 97,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Meadowbrook Community Center",
+        "ADDRESS" : "10517 35th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=23",
+        "LONGITUDE" : -122.29179999999999,
+        "LATITUDE" : 47.705440000000003,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1281340.4418046921,
+        "y" : 260725.33911149204
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 98,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Miller Community Center",
+        "ADDRESS" : "330 19th Ave E",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=24",
+        "LONGITUDE" : -122.30689,
+        "LATITUDE" : 47.621760000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1277041.2909642905,
+        "y" : 230278.10566778481
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 99,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Miller Community Center",
+        "ADDRESS" : "330 19th Ave E",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=25",
+        "LONGITUDE" : -122.30689,
+        "LATITUDE" : 47.621760000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1277041.2909642905,
+        "y" : 230278.10566778481
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 100,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Miller Community Center",
+        "ADDRESS" : "330 19th Ave E",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=26",
+        "LONGITUDE" : -122.30689,
+        "LATITUDE" : 47.621760000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1277041.2909642905,
+        "y" : 230278.10566778481
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 101,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Northgate Community Center",
+        "ADDRESS" : "10510 5th Ave NE",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=27",
+        "LONGITUDE" : -122.32265,
+        "LATITUDE" : 47.705329999999996,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273745.2971288413,
+        "y" : 260830.68923713267
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 102,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "South Park Community Center",
+        "ADDRESS" : "8319 8th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=28",
+        "LONGITUDE" : -122.32431,
+        "LATITUDE" : 47.528320000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272085.7935139835,
+        "y" : 196283.59911029041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 103,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Van Asselt Community Center",
+        "ADDRESS" : "2820 S Myrtle St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=29",
+        "LONGITUDE" : -122.29536,
+        "LATITUDE" : 47.539389999999997,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1279313.4410459995,
+        "y" : 200183.60209624469
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 104,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Montlake Branch Library",
+        "ADDRESS" : "2401 24th Ave E",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=5&item=1",
+        "LONGITUDE" : -122.302393,
+        "LATITUDE" : 47.640565000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1278281.0394185483,
+        "y" : 237115.06729264557
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 105,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Seattle Art Museum",
+        "ADDRESS" : "100 University St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=9&item=1",
+        "LONGITUDE" : -122.33777000000001,
+        "LATITUDE" : 47.607402,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269324.9423819333,
+        "y" : 225189.14467568696
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 106,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Benaroya Hall",
+        "ADDRESS" : "200 University St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=9&item=2",
+        "LONGITUDE" : -122.33717300000001,
+        "LATITUDE" : 47.607939000000002,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269476.0100827664,
+        "y" : 225382.1079582423
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 107,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Sixth Ave And Seneca St",
+        "ADDRESS" : "6th Ave and Seneca St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=9&item=3",
+        "LONGITUDE" : -122.331945,
+        "LATITUDE" : 47.608578000000001,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270769.9363424033,
+        "y" : 225589.9928919524
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 108,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Bergen Place Park",
+        "ADDRESS" : "5420 22nd Ave NW",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=2",
+        "LONGITUDE" : -122.38443599999999,
+        "LATITUDE" : 47.668407999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1258264.1018847227,
+        "y" : 247666.02418521047
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 109,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Sturgus Park",
+        "ADDRESS" : "904 Sturgus Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=3",
+        "LONGITUDE" : -122.314212,
+        "LATITUDE" : 47.594141,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1275042.0755169392,
+        "y" : 220240.18049669266
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 110,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Mineral Springs Park",
+        "ADDRESS" : "1500 N 105th St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=4",
+        "LONGITUDE" : -122.337812,
+        "LATITUDE" : 47.705210999999998,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270012.0210084021,
+        "y" : 260859.89961782098
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 112,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : "Woodland Park Zoo",
+        "ADDRESS" : "5500 Phinney Ave N",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=1&item=7",
+        "LONGITUDE" : -122.353686,
+        "LATITUDE" : 47.668531999999999,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1265840.0239943862,
+        "y" : 247560.0608485043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "Title" : "Cascadia",
+        "Artist" : "John Hoge",
+        "Installed_Date" : "1999-2000",
+        "SPONSER" : null,
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : "505 Union Station Building ",
+        "Description" : "Polished stone and fountain",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=252",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315526400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 402,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271648.3577182591,
+        "y" : 221617.82991559803
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "Title" : "Bridge Between Cultures",
+        "Artist" : "Fernanda D'Agostino and Valerie Otani",
+        "Installed_Date" : "1999",
+        "SPONSER" : "4Culture & King County Metro Transit Division Collection",
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : "4th Ave S & S Weller",
+        "Description" : "Mixed-media bridge installation",
+        "WEBSITE" : "http://www.4culture.org/publicart/collection/profile.aspx?projectID=40 ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315526400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 501,
+        "OverLappingArtDistrict" : "3",
+        "OverLappingArtID" : 401,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "4Culture & King County Metro"
+      },
+      "geometry" : {
+        "x" : 1271272.5083462447,
+        "y" : 221570.16134431958
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 115,
+        "Title" : "Historic Chinatown Gate (Chong Wa Gate)",
+        "Artist" : "MulvannyG2 Architecture and Paul Wu",
+        "Installed_Date" : "2008",
+        "SPONSER" : "Historic Chinatown Gate Foundation ",
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : "5th Ave S & S King St",
+        "Description" : "Ceramic Tile and steel gate",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315526400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 413,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271818.8148580641,
+        "y" : 221837.14092878997
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "Title" : "Pillar Arc",
+        "Artist" : "Ming Fay",
+        "Installed_Date" : "2004",
+        "SPONSER" : "General Service Administration",
+        "COMMON_NAM" : "Denny Triangle",
+        "ADDRESS" : "700 Stewart St",
+        "Description" : "28 foot cast aluminum",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315699200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269779.0500863642,
+        "y" : 227821.95623414218
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "Title" : "Three Women: Girl, Young Woman, Mother and Child",
+        "Artist" : "Akio Takamori",
+        "Installed_Date" : "2006",
+        "SPONSER" : "Vulcan Incorporated Collection",
+        "COMMON_NAM" : "Denny Triangle",
+        "ADDRESS" : "2270 Westlake Ave",
+        "Description" : "Painted cast aluminum sculpture",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315699200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269300.0076012909,
+        "y" : 229142.31037722528
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "Title" : "Plaza Seat Cubes",
+        "Artist" : "Elizabeth Conner",
+        "Installed_Date" : "1999",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "Denny Triangle - West Police Precinct",
+        "ADDRESS" : "810 Virginnia Street",
+        "Description" : "Concrete seat cubes",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315699200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269692.7242065817,
+        "y" : 228317.73473979533
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "Title" : "Heaven, Man, & Earth",
+        "Artist" : "George Tsutakawa",
+        "Installed_Date" : "1978",
+        "SPONSER" : "City of Seattle ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Maynard Ave S  & S Jackson St West sidewalk",
+        "Description" : "Bronze Sculpture",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=137",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 429,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272419.8820659518,
+        "y" : 222044.5673481822
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "Title" : "Thread",
+        "Artist" : "Nichols Meisel",
+        "Installed_Date" : "2004",
+        "SPONSER" : "City of Seattle ",
+        "COMMON_NAM" : "International District - Chinatown Community Center",
+        "ADDRESS" : "719 8th Ave S",
+        "Description" : "Cut and laminated polyethylene panels on library wall",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?view=2&img=0&cat=2&item=2",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 423,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273001.8644087017,
+        "y" : 220981.81730149686
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 121,
+        "Title" : "Benches, Bull, and Fish",
+        "Artist" : "Hai Ying Wu",
+        "Installed_Date" : "1998",
+        "SPONSER" : "City of Seattle ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "International District Village Square between Lane & Dearborn",
+        "Description" : "Steel sculpture on poles",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 421,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273093.5977001488,
+        "y" : 221052.67653574049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "Title" : "Wellspring",
+        "Artist" : "Rene Yung",
+        "Installed_Date" : "2005",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "International District Branch Library",
+        "ADDRESS" : "713 8th Ave S",
+        "Description" : "Tea cups, MDF, paint sculpture",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=5&view=2&img=0&item=12",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 422,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272993.6697975397,
+        "y" : 221034.53709940612
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 123,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "610 5th Ave S",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271759.5154457539,
+        "y" : 221193.87120960653
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 124,
+        "Title" : "Copper Dragon",
+        "Artist" : "Aki Sogabi",
+        "Installed_Date" : "2002",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "6th Ave S & S Lane St",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=265",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 416,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272003.5326321572,
+        "y" : 221195.6191060245
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 125,
+        "Title" : "Kasuga Lantern",
+        "Artist" : "China Craft",
+        "Installed_Date" : "2002",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Uwagimaya between 5th Ave S & 6th Ave S",
+        "Description" : null,
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=266&cat=area&catval=ps",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 415,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271847.3031575233,
+        "y" : 221179.05350024998
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 126,
+        "Title" : "Game Tables",
+        "Artist" : "Hai Jing Wu",
+        "Installed_Date" : "1999",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Hing Hay Park",
+        "Description" : "Concrete bench tables with various game boards",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=135&cat=area&catval=ps",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 431,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272349.0798343271,
+        "y" : 221913.91482378542
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 127,
+        "Title" : "Chinese Grand Pavilion",
+        "Artist" : "Taiwan",
+        "Installed_Date" : "1975",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Hing Hay Park",
+        "Description" : "Carved and painted wood structure",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=42",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315785600000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 432,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272273.7750255913,
+        "y" : 221916.43452492356
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 128,
+        "Title" : "Whirl Piece: Current Events",
+        "Artist" : "Ela Lamblin",
+        "Installed_Date" : "2005",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "Yesler Community Center",
+        "ADDRESS" : "917 E Yesler Wy",
+        "Description" : "Steel Sclupture",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=2&view=2&img=0&item=30",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315958400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 426,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273536.3683981001,
+        "y" : 222938.29967279732
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 129,
+        "Title" : "Kobe Lantern",
+        "Artist" : "Presented by Mayor of Kobe",
+        "Installed_Date" : "1976",
+        "SPONSER" : "City of Seattle Parks and Recreation",
+        "COMMON_NAM" : "Chinatown/International District - Kobe Terrace Park",
+        "ADDRESS" : "221 6th Ave S",
+        "Description" : "Stone Lantern presented by Mayor of Kobe, Japan",
+        "WEBSITE" : "http://www.seattle.gov/parks/park_detail.asp?ID=3915#about",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315958400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 427,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272471.048078835,
+        "y" : 222738.37570410967
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 130,
+        "Title" : "Sand Dragon",
+        "Artist" : "Gerard Tsutakawa",
+        "Installed_Date" : "2012",
+        "SPONSER" : "Friends of International Childrens Park",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "8th Ave S & S Lane St",
+        "Description" : "Dragon Sculpture",
+        "WEBSITE" : "http://friendsoficp.wordpress.com/icp-public-art/",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : "3",
+        "ArtID" : 419,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272794.2424767464,
+        "y" : 221319.35152219236
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 131,
+        "Title" : "Top",
+        "Artist" : "Stuart Nakamura",
+        "Installed_Date" : "2012",
+        "SPONSER" : "Friends of International Childrens Park",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "8th Ave S & S Lane St",
+        "Description" : "Stainless Steel Sculpture",
+        "WEBSITE" : "http://friendsoficp.wordpress.com/icp-public-art/",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : "3",
+        "ArtID" : 420,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272825.0074549615,
+        "y" : 221313.75788977742
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 132,
+        "Title" : "Hoop",
+        "Artist" : "Stuart Nakamura",
+        "Installed_Date" : "2012",
+        "SPONSER" : "Friends of International Childrens Park",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "8th Ave S & S Lane St",
+        "Description" : "Stainless Steel Sculpture",
+        "WEBSITE" : "http://friendsoficp.wordpress.com/icp-public-art/",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : "3",
+        "ArtID" : 418,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272780.5691531152,
+        "y" : 221310.3395588696
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 133,
+        "Title" : "Ball",
+        "Artist" : "Stuart Nakamura",
+        "Installed_Date" : "2012",
+        "SPONSER" : "Friends of International Childrens Park",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "8th Ave S & S Lane St",
+        "Description" : "Cast Iron or Brass Sculpture",
+        "WEBSITE" : "http://friendsoficp.wordpress.com/icp-public-art/",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : "3",
+        "ArtID" : 417,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272793.6209620684,
+        "y" : 221259.37535254657
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 134,
+        "Title" : "Asian Resource Center Gate",
+        "Artist" : " ",
+        "Installed_Date" : "1994",
+        "SPONSER" : "Robert Chinn Foundation",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "1025 S King St",
+        "Description" : "Steel and wood gate",
+        "WEBSITE" : "http://www.asianresourcecenter.org/About_the_ARC.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1315958400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 424,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1274053.2036619484,
+        "y" : 221688.87052096426
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 135,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273107.8405812383,
+        "y" : 220920.16571758687
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 136,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272850.7027704716,
+        "y" : 220923.96164256334
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 137,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272221.6814564615,
+        "y" : 220942.3565326035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 138,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271853.7950926721,
+        "y" : 220951.97102160752
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 139,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271782.9760975689,
+        "y" : 221862.13409504294
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 140,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271834.2735466212,
+        "y" : 222112.27543710172
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 141,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316476800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271833.9015113711,
+        "y" : 222177.24533100426
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 142,
+        "Title" : "Dragon Poles",
+        "Artist" : "Meng Huang & Heather Presler, Kevin Lorentzen",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Painted Fiberglass",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?cat=area&catval=ps&id=335",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316563200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 412,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272544.9134287834,
+        "y" : 220939.93439474702
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 143,
+        "Title" : "Dragon Mural",
+        "Artist" : "John Woo",
+        "Installed_Date" : "1977",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Bush Asia Center Overlooking Hing Hay Park",
+        "Description" : "Paint on concrete depicting dragon",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=136&cat=area&catval=ps",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1316563200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 430,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272337.5012318045,
+        "y" : 221972.55868983269
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 144,
+        "Title" : "Sentinels",
+        "Artist" : "Gloria Bornstein",
+        "Installed_Date" : "2008",
+        "SPONSER" : "Fleet and Facilities Dept",
+        "COMMON_NAM" : "Fire Station #10",
+        "ADDRESS" : "400 S Washington St",
+        "Description" : "Painted steel columns",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=7&view=2&img=0&item=7",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1319500800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 434,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271676.0742081255,
+        "y" : 222793.82956941426
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 145,
+        "Title" : "bamboo, luminous",
+        "Artist" : "Nancy Chew & Jacqueline Metz",
+        "Installed_Date" : "2008",
+        "SPONSER" : "Fleet and Facilities Dept",
+        "COMMON_NAM" : "Fire Station #10",
+        "ADDRESS" : "400 S Washington St",
+        "Description" : "Resin poles, LED illuminated",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=7&view=2&img=0&item=5",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1319500800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 433,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271739.0553597957,
+        "y" : 222860.204852283
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 146,
+        "Title" : "Jackson Street Colonades",
+        "Artist" : "Fire Cruxent Studios",
+        "Installed_Date" : "1998",
+        "SPONSER" : "Seattle Office of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "South Jackson Street under I-5",
+        "Description" : "Enamel paint on concrete",
+        "WEBSITE" : "http://www.cidbia.org/folder.2008-10-02.5424088258",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320105600000,
+        "ACQ_By" : "Derek S. Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 425,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1273182.0689650178,
+        "y" : 222113.61157730222
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 147,
+        "Title" : "Water Ring",
+        "Artist" : "Betsy Best-Spadaro",
+        "Installed_Date" : "2001",
+        "SPONSER" : "City of Seattle Office of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Concentric rings that represent whales, orcas and salmon",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=6&view=2&img=0&item=14",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320019200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 414,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271742.664594233,
+        "y" : 221501.77378684282
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 148,
+        "Title" : "Reflections of a Filipino",
+        "Artist" : "Jose Rizal",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Quote on steps and silhouette",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320192000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 407,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271650.8581891209,
+        "y" : 222060.48612251878
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 149,
+        "Title" : "Train Whistling Sorrow",
+        "Artist" : "Eve Triem",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Quote on steps and silhouette",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320192000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 409,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271711.1697482914,
+        "y" : 222060.83225043118
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 150,
+        "Title" : "Quote",
+        "Artist" : "Chinn Gee Hee",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Quote on steps and silhouette",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320192000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 403,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271643.5940960348,
+        "y" : 221760.57596120238
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 151,
+        "Title" : "Quote",
+        "Artist" : "Teresa Schmid McMahon",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Quote on steps and silhouette",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320192000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 404,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271704.7914801985,
+        "y" : 221759.43193462491
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 152,
+        "Title" : "Idiom/Our Own",
+        "Artist" : "Laureen Mar",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Poem on trellis",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320192000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 411,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271706.9115546942,
+        "y" : 221890.23547877371
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 153,
+        "Title" : "Twelve Symbols of Chinese Calendar",
+        "Artist" : "Alice Adams and Sonya Ishii",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Tiles with Chinese calendar symbols ",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320192000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 406,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271674.1816332936,
+        "y" : 221868.97436644137
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 154,
+        "Title" : "Juncture",
+        "Artist" : "Laureen Mar",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel",
+        "ADDRESS" : " ",
+        "Description" : "Poem on trellis",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320278400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 410,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271709.0250675231,
+        "y" : 221977.43215478957
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 155,
+        "Title" : "Nine Origami Panels",
+        "Artist" : "Sonya Ishii",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel ",
+        "ADDRESS" : " ",
+        "Description" : "Panels of painted and folded stainless steel ",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320278400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 405,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271712.9223694354,
+        "y" : 221838.81235328317
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 156,
+        "Title" : "West Mosiac Tiles",
+        "Artist" : "Fourth and fifth graders from Beacon Hill and Bailey Gatzert elementary schools",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel ",
+        "ADDRESS" : " ",
+        "Description" : "Tiles Mosaics on station Northwest entrance wall ",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320278400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 408,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271656.3260259479,
+        "y" : 222077.86502477527
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 157,
+        "Title" : "East Mosaic Tiles",
+        "Artist" : "Fourth and fifth graders from Beacon Hill and Bailey Gatzert elementary schools",
+        "Installed_Date" : "1990",
+        "SPONSER" : "King County Metro Transit",
+        "COMMON_NAM" : "Chinatown - International District Transit Tunnel ",
+        "ADDRESS" : " ",
+        "Description" : "Tiles Mosaics on station Northeast entrance wall ",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-international.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320278400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 408,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1271706.1152964532,
+        "y" : 222077.52906745672
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 159,
+        "Title" : "Nihonmachi Maynard Avenue Green Street",
+        "Artist" : "Rumi Takahashi, Steve Badanes, Laura Brodax",
+        "Installed_Date" : "2006",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "Chinatown/International District",
+        "ADDRESS" : " ",
+        "Description" : "Stream, garden, and kiosks",
+        "WEBSITE" : "http://www.interimicda.org/index.php?/sustainable_communities/green_street_project/",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1320883200000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "3",
+        "ArtID" : 428,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1272434.5382102877,
+        "y" : 222252.49864253402
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 160,
+        "Title" : "Anawog",
+        "Artist" : "Jan Evans",
+        "Installed_Date" : "1978",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "Pioneer Square",
+        "ADDRESS" : "2nd Ave S and S Washington St",
+        "Description" : "Orange steel figure with cross shape",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 511,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "City of Seattle"
+      },
+      "geometry" : {
+        "x" : 1270802.5854420662,
+        "y" : 222827.02635411918
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 161,
+        "Title" : "Tsonoqua",
+        "Artist" : "Duane Pasco",
+        "Installed_Date" : "1987",
+        "SPONSER" : "Private Donor",
+        "COMMON_NAM" : "Occidental Park",
+        "ADDRESS" : "Occidental Ave S & S Main St",
+        "Description" : "Cedar figure pole of Tsonqua, a welcoming figure",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&item=6&view=2",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 533,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Private Donor"
+      },
+      "geometry" : {
+        "x" : 1270369.5716353804,
+        "y" : 222718.71787394583
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 162,
+        "Title" : "Seattle Fallen Fire Fighters",
+        "Artist" : "Hai Ying Wu ",
+        "Installed_Date" : "1995",
+        "SPONSER" : "Seattle Fire Deparment ",
+        "COMMON_NAM" : "Occidental Park",
+        "ADDRESS" : "Occidental Ave S & S Main St ",
+        "Description" : "Bronze & granite sculpture",
+        "WEBSITE" : "http://www.seattle.gov/fire/firefighting/fallenffmemorial.htm ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 537,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle Fire Deparment "
+      },
+      "geometry" : {
+        "x" : 1270478.2249268144,
+        "y" : 222533.62192596495
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 163,
+        "Title" : "Bear",
+        "Artist" : "Duane Pasco",
+        "Installed_Date" : "1987",
+        "SPONSER" : "Private Donor",
+        "COMMON_NAM" : "Occidental Park",
+        "ADDRESS" : "Occidental Ave S & S Main St",
+        "Description" : "Cedar figure pole sculpture of bear",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&item=6&view=2",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 534,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Private Donor"
+      },
+      "geometry" : {
+        "x" : 1270403.1170699298,
+        "y" : 222717.87272284925
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 164,
+        "Title" : "Sun and Raven",
+        "Artist" : "Duane Pasco",
+        "Installed_Date" : "1987",
+        "SPONSER" : "Private Donor",
+        "COMMON_NAM" : "Occidental Park",
+        "ADDRESS" : "Occidental Ave S & S Main St",
+        "Description" : "Cedar pole totem sculpture of Native American legend Raven Bringing Light to the World",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&item=6&view=2",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 535,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Private Donor"
+      },
+      "geometry" : {
+        "x" : 1270405.3511716425,
+        "y" : 222651.06378424168
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 165,
+        "Title" : "Killer Whale",
+        "Artist" : "Duane Pasco",
+        "Installed_Date" : "1987",
+        "SPONSER" : "Private Donor",
+        "COMMON_NAM" : "Occidental Park",
+        "ADDRESS" : "Occidental Ave S & S Main St",
+        "Description" : "Cedar pole totem sculpture of killer whale",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&item=6&view=2",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 536,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Private Donor"
+      },
+      "geometry" : {
+        "x" : 1270409.970761776,
+        "y" : 222646.43856583536
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 166,
+        "Title" : "Earth Dialogue",
+        "Artist" : " ",
+        "Installed_Date" : null,
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : null,
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "4",
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270773.6512568295,
+        "y" : 221269.25476615131
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 167,
+        "Title" : "Lumen",
+        "Artist" : "Beliz Brother",
+        "Installed_Date" : "2002",
+        "SPONSER" : " ",
+        "COMMON_NAM" : "Centurylink Field",
+        "ADDRESS" : " ",
+        "Description" : "Arranged runway lights",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=234",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "4",
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270443.676995188,
+        "y" : 221043.45130863786
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 168,
+        "Title" : "Murals",
+        "Artist" : " ",
+        "Installed_Date" : null,
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : null,
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "4",
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270374.3984248936,
+        "y" : 220871.78682342172
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 169,
+        "Title" : "Roman Spectator",
+        "Artist" : " ",
+        "Installed_Date" : null,
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : null,
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "4",
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270407.2465127558,
+        "y" : 220722.0655426532
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 170,
+        "Title" : "Rock Shadow",
+        "Artist" : " ",
+        "Installed_Date" : null,
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : null,
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "4",
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1270428.2112708539,
+        "y" : 220358.81122641265
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 171,
+        "Title" : "Totem Pole",
+        "Artist" : "Charles Brown, restored by Jack Hudson ",
+        "Installed_Date" : "1940",
+        "SPONSER" : "United States Forest Service ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "1st Ave S & Yesler Way",
+        "Description" : "Cedar Pole Sculpture",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&view=2&img=0&item=20 ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 528,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "United States Forest Service "
+      },
+      "geometry" : {
+        "x" : 1270225.900840193,
+        "y" : 223230.36931753159
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 172,
+        "Title" : "Chief Seattle Fountain",
+        "Artist" : "James Wehn ",
+        "Installed_Date" : "1909",
+        "SPONSER" : " ",
+        "COMMON_NAM" : "Pioneer Place Park",
+        "ADDRESS" : "1st Ave S & Yesler Way",
+        "Description" : "Bronze bust of Chief Seattle tops a multi-tiered fountain marking the northern boundary of Pioneer Square",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&view=2&img=0&item=18 ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 526,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle Parks & Recreation"
+      },
+      "geometry" : {
+        "x" : 1270277.7104483098,
+        "y" : 223209.7372187674
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 174,
+        "Title" : "Waterfall Garden Park",
+        "Artist" : "Masao Kinoshita",
+        "Installed_Date" : "1977",
+        "SPONSER" : "United Parcel Service",
+        "COMMON_NAM" : "",
+        "ADDRESS" : "219 2nd Ave S",
+        "Description" : "Street corner pocket park fenced with waterfall feature, plantings, tables, on-site supervision",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 509,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "United Parcel Service"
+      },
+      "geometry" : {
+        "x" : 1270745.8460596204,
+        "y" : 222516.96307387948
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 175,
+        "Title" : "Firefighter Silhouette",
+        "Artist" : "Tom Askman",
+        "Installed_Date" : "1987",
+        "SPONSER" : "Seattle Fire Department ",
+        "COMMON_NAM" : "Seattle Fire Department Headquarters",
+        "ADDRESS" : "301 2nd Ave S ",
+        "Description" : "Bronze & Zinc Sculptures",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=211&cat=area&catval=ps",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 507,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle Fire Department "
+      },
+      "geometry" : {
+        "x" : 1270770.2309924662,
+        "y" : 222388.58204738796
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 176,
+        "Title" : "Flip",
+        "Artist" : "Mary Iverson",
+        "Installed_Date" : "2012",
+        "SPONSER" : "SDOT.Seattle Office of Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "24 panels on adhesive vinyl portraying the struggle nature and industry, on pedestrian bridge from Western Ave to Colman Ferry dock.",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : "Derek S. Wilson",
+        "ArtDistrict" : "1",
+        "ArtID" : 531,
+        "OverLappingArtDistrict" : "2",
+        "OverLappingArtID" : 527,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "SDOT.Seattle Office of Cultural Affairs"
+      },
+      "geometry" : {
+        "x" : 1269328.3762521297,
+        "y" : 223574.57232625782
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 177,
+        "Title" : "Joshua Green Fountain",
+        "Artist" : "George Tsutakawa",
+        "Installed_Date" : "1966",
+        "SPONSER" : "Washington State Department of Transportation",
+        "COMMON_NAM" : "Colman ferry dock",
+        "ADDRESS" : "Columbia & Alaska Way",
+        "Description" : "Bronze fountain",
+        "WEBSITE" : "http://www.seattleoutdoorart.com/show.php?id=158&cat=area&catval=ds",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349308800000,
+        "ACQ_By" : "Derek S  Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 530,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Washington Department of Transportation"
+      },
+      "geometry" : {
+        "x" : 1269475.5512481779,
+        "y" : 223153.75005050004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 183,
+        "Title" : "Tlingit Whale Relief Hatchcover",
+        "Artist" : "Nathan Jackson",
+        "Installed_Date" : "1976",
+        "SPONSER" : "Seattle City Light and Office of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Hatchcover depicting whales",
+        "WEBSITE" : "http://www.cityofseattle.net/light/Neighborhoods/nh4_art.htm",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349049600000,
+        "ACQ_By" : "Derek  S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 508,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle City Light & Arts and Cultural Affairs"
+      },
+      "geometry" : {
+        "x" : 1270760.2382729501,
+        "y" : 222496.52131171525
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 184,
+        "Title" : "Friends of Post Alley Mural",
+        "Artist" : "Billy King",
+        "Installed_Date" : "2002",
+        "SPONSER" : "Friends of Post Alley",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Mural on a sliding WWII metal blackout door",
+        "WEBSITE" : "http://billyking.com/murals/",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349308800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 529,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Friends of Post Alley"
+      },
+      "geometry" : {
+        "x" : 1270015.120213747,
+        "y" : 223165.96874192357
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 185,
+        "Title" : "The Plaza at King Street Center",
+        "Artist" : "Jack Mackie",
+        "Installed_Date" : "1996",
+        "SPONSER" : "King County Public Art Collection and 4Culture",
+        "COMMON_NAM" : "King Street Center",
+        "ADDRESS" : "201 S Jackson St",
+        "Description" : "Plaza containing wrought iron railing styled like grass",
+        "WEBSITE" : "http://www.seattle.gov/arts/_downloads/walking_tours/PublicArtMap.pdf",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349308800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 504,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "4Culture & King County"
+      },
+      "geometry" : {
+        "x" : 1271072.7833523303,
+        "y" : 221974.67520357668
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 188,
+        "Title" : "Water Ring",
+        "Artist" : "Betsy Best-Spadaro",
+        "Installed_Date" : "2001",
+        "SPONSER" : "City of Seattle Office of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Concentric rings that represent whales, orcas & salmon",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=6&view=2&img=0&item=14",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349136000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 510,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Arts and Cultural Affairs"
+      },
+      "geometry" : {
+        "x" : 1270858.4968251139,
+        "y" : 222550.43448115885
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 189,
+        "Title" : "Water Ring",
+        "Artist" : "Betsy Best-Spadaro",
+        "Installed_Date" : "2001",
+        "SPONSER" : "City of Seattle Office of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Concentric rings that represent whales, orcas & salmon",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=6&view=2&img=0&item=14",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349136000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 512,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Arts and Cultural Affairs"
+      },
+      "geometry" : {
+        "x" : 1270768.2343372107,
+        "y" : 222915.35160592198
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 190,
+        "Title" : "Rain Forest Gates",
+        "Artist" : "Jean Whitesavage and Nick Lyle",
+        "Installed_Date" : "1999",
+        "SPONSER" : "King County Public Art Collection and 4Culture",
+        "COMMON_NAM" : "King Street Center",
+        "ADDRESS" : "201 S Jackson St",
+        "Description" : "Steel Gates",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : "2",
+        "ArtID" : 506,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "4Culture & King County"
+      },
+      "geometry" : {
+        "x" : 1270842.9952236414,
+        "y" : 222138.294425264
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 193,
+        "Title" : "Artifact Clock South Mezzanine",
+        "Artist" : "Kate Ericson and Mel Ziegler",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square Station South Mezzanine",
+        "ADDRESS" : "Transit Tunnel Pioneer Square Station South Mezzanine",
+        "Description" : "Clock made from material found while constructing tunnel",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349654400000,
+        "ACQ_By" : "Derek S. Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 519,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270985.7418894321,
+        "y" : 223262.28228607774
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 194,
+        "Title" : "Artifact Clock North Mezzanine",
+        "Artist" : "Kate Ericson and Mel Ziegler",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Tranit Tunnel Pioneer Square North Mezzanine",
+        "ADDRESS" : "3rd Ave & James Street",
+        "Description" : "Clock made from materials used to construct tunnel & station",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349654400000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 520,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270889.636376217,
+        "y" : 223424.61201107502
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 201,
+        "Title" : "Mural",
+        "Artist" : "Laura Sindell",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square Station South Mezzanine",
+        "ADDRESS" : "3rd Ave & Jefferson St",
+        "Description" : "Ceramic mural",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349740800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 516,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270931.7010303885,
+        "y" : 223130.80264934897
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 202,
+        "Title" : "Cast Iron Flywheel",
+        "Artist" : "Seattle Cable Car ",
+        "Installed_Date" : "~1900",
+        "SPONSER" : " ",
+        "COMMON_NAM" : "Transit Tunnel Pioneer Square Station South Mezzanine",
+        "ADDRESS" : "2nd Ave & Yesler",
+        "Description" : "Cast iron wheel from historic Yesler street car",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350000000000,
+        "ACQ_By" : "Derek S. Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 518,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270997.5477544218,
+        "y" : 223242.34125715494
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 204,
+        "Title" : "Quotation",
+        "Artist" : "'Doc' Maynard",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square Station South Mezzanine",
+        "ADDRESS" : "3rd Ave & Jefferson St",
+        "Description" : "\"My attention was thus turned to the sound and I formed the purpose of looking in that direction.\"",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349740800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 514,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : 513,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270902.4221439362,
+        "y" : 223130.23207654059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 205,
+        "Title" : "Human Figures",
+        "Artist" : "Garth Edwards",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square Station South Mezzanine",
+        "ADDRESS" : "3rd Ave & Jefferson St",
+        "Description" : "Human figures on steel entrace grate",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349740800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 515,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270915.2382466197,
+        "y" : 223136.6176995188
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 207,
+        "Title" : "Prefontaine Fountain",
+        "Artist" : "Carl F Gould",
+        "Installed_Date" : "1925",
+        "SPONSER" : " ",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "1925, a small park, funded with $5,000 left to the city \"for a fountain in a public square\" by Father Prefontaine, founder of the first Catholic Church in area. ",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350000000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 517,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle Parks & Recreation"
+      },
+      "geometry" : {
+        "x" : 1271025.1599659324,
+        "y" : 223142.70205996931
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 216,
+        "Title" : "Burble and Deep Blue",
+        "Artist" : "Kate Sweeney",
+        "Installed_Date" : "2011",
+        "SPONSER" : "Seattle Office  of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Combining printmaking, digital and painting techniques, cut shapes are fitted into one surface",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : " ",
+        "ArtDistrict" : "2",
+        "ArtID" : 525,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Arts and Cultural Affairs"
+      },
+      "geometry" : {
+        "x" : 1270854.1366078556,
+        "y" : 223587.36865480244
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 217,
+        "Title" : "Quotation",
+        "Artist" : "Minnie Parkurst ",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel North Mezzanine",
+        "ADDRESS" : "3rd Ave & James St",
+        "Description" : "\"Things do continue to move on the outside.\"",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349740800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 524,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270861.6645242572,
+        "y" : 223527.43572832644
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 218,
+        "Title" : "Quotation",
+        "Artist" : "Chief Sealth",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square Station North Mezzanine",
+        "ADDRESS" : "3rd Ave & James St",
+        "Description" : "\"Why are you not afraid?  Look at the reason why.\"",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350000000000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 523,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270763.3987763673,
+        "y" : 223431.79380610585
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 219,
+        "Title" : "Steel Gates",
+        "Artist" : "Jim Garret",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square North Mezzanine",
+        "ADDRESS" : "3rd Ave & James St",
+        "Description" : "Steel gates in art deco style",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349740800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 522,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270755.1777484566,
+        "y" : 223444.57572713494
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 220,
+        "Title" : "Beams With Moving Parts",
+        "Artist" : "Brian Goldbloom",
+        "Installed_Date" : "1990",
+        "SPONSER" : "Sound Transit",
+        "COMMON_NAM" : "Seattle Transit Tunnel Pioneer Square Station North Mezzanine",
+        "ADDRESS" : "3rd Ave & James St",
+        "Description" : "Struts tilt out from wall as if in motion",
+        "WEBSITE" : "http://metro.kingcounty.gov/tops/tunnel/ts-pioneer.html",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1349740800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 521,
+        "OverLappingArtDistrict" : "1",
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1270767.7713243365,
+        "y" : 223451.76303447783
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 221,
+        "Title" : "Fortson Square",
+        "Artist" : "Elizabeth Conner, Cliff Willwert and Brian Goldbloom",
+        "Installed_Date" : "2001",
+        "SPONSER" : " ",
+        "COMMON_NAM" : "Pioneer Square Art District",
+        "ADDRESS" : "2nd Ave & Yesler Way",
+        "Description" : "Installation with recycled architectural artifacts",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1329004800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 513,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle Parks & Recreation"
+      },
+      "geometry" : {
+        "x" : 1270848.4568023831,
+        "y" : 223019.26912635565
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 222,
+        "Title" : "Earth, Wind and Water",
+        "Artist" : "Maya Radoczy",
+        "Installed_Date" : "1999",
+        "SPONSER" : "4Culture & King County Public Art Collection",
+        "COMMON_NAM" : "King Street Center",
+        "ADDRESS" : "201 S Jackson St",
+        "Description" : "Glass lighting",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350172800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 505,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "4Culture & King County"
+      },
+      "geometry" : {
+        "x" : 1270909.1833399832,
+        "y" : 222074.18398149312
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 223,
+        "Title" : "Day/Night",
+        "Artist" : "Hachivi Edgar Heap of Birds",
+        "Installed_Date" : "1991",
+        "SPONSER" : "City of Seattle",
+        "COMMON_NAM" : "Pioneer Place Park",
+        "ADDRESS" : "1st Ave S & Yesler",
+        "Description" : "Porcelian enamel on steel panels",
+        "WEBSITE" : "http://www.seattle.gov/arts/publicart/permanent.asp?cat=1&view=2&img=0&item=19 ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350172800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 527,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : -1,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "City of Seattle"
+      },
+      "geometry" : {
+        "x" : 1270270.6396428049,
+        "y" : 223219.59828537703
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 224,
+        "Title" : "Windvanes",
+        "Artist" : "Ned Kahn",
+        "Installed_Date" : "2000",
+        "SPONSER" : "Sound Transit Art Program Collection",
+        "COMMON_NAM" : "King Street Station ",
+        "ADDRESS" : "303 S Jackson St ",
+        "Description" : "Steel and aluminum columns",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350172800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 503,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1271223.7720265538,
+        "y" : 221968.53692859411
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 225,
+        "Title" : "Moto",
+        "Artist" : "Jerry Meyer",
+        "Installed_Date" : "2004",
+        "SPONSER" : "Sound Transit Arts Program Collection",
+        "COMMON_NAM" : "King Street Station ",
+        "ADDRESS" : "303 S Jackson St ",
+        "Description" : "Aluminum signs",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1350172800000,
+        "ACQ_By" : "Derek S Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 502,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Sound Transit"
+      },
+      "geometry" : {
+        "x" : 1271280.971949771,
+        "y" : 221881.43447126448
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 226,
+        "Title" : null,
+        "Artist" : null,
+        "Installed_Date" : null,
+        "SPONSER" : null,
+        "COMMON_NAM" : " ",
+        "ADDRESS" : " ",
+        "Description" : "Manhole Cover Whale Style",
+        "WEBSITE" : " ",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : null,
+        "ACQ_By" : null,
+        "ArtDistrict" : null,
+        "ArtID" : null,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : null,
+        "Override" : null,
+        "KML_Point" : null,
+        "Override_1" : null,
+        "AbbreviatedSponsor" : null
+      },
+      "geometry" : {
+        "x" : 1269999.9379860312,
+        "y" : 223081.53408262134
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 228,
+        "Title" : "Tlingit Whale Relief Hatchcover",
+        "Artist" : "Nathan Jackson",
+        "Installed_Date" : "1976",
+        "SPONSER" : "Seattle City Light and Office of Arts and Cultural Affairs",
+        "COMMON_NAM" : " ",
+        "ADDRESS" : "Post Ave & Yesler Way",
+        "Description" : "Hatchcover depicting whales",
+        "WEBSITE" : "http://www.cityofseattle.net/light/Neighborhoods/nh4_art.htm",
+        "LONGITUDE" : 0,
+        "LATITUDE" : 0,
+        "ACQ_Date" : 1378771200000,
+        "ACQ_By" : "Derek S. Wilson",
+        "ArtDistrict" : "2",
+        "ArtID" : 532,
+        "OverLappingArtDistrict" : null,
+        "OverLappingArtID" : null,
+        "RuleID" : 3,
+        "KML_Point" : 4,
+        "AbbreviatedSponsor" : "Seattle City Light & Arts and Cultural Affairs"
+      },
+      "geometry" : {
+        "x" : 1269999.9379860312,
+        "y" : 223081.53408262134
+      }
+    }
+  ]
+}
