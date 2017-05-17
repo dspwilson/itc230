@@ -1,0 +1,33 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "ITC230 templating with handlebars",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dspwilson/itc230/tree/master/assignment5"
+  },
+  "keywords": [
+    "\"templating\"",
+    "\"Derek",
+    "S",
+    "Wilson\"",
+    "\"ITC230\"",
+    "\"Seattle",
+    "Central",
+    "College\""
+  ],
+  "author": "Derek S Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
