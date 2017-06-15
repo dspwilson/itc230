@@ -1,0 +1,2 @@
+
+mongoimport --db seattle-public-art --collection features --file SeattlePublicArtMongoDoc.json
