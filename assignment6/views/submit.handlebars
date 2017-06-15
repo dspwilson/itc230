@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--submit.html                         -->
+<!--                                    -->
+<!-- June  2017                         -->
+<!--                                    -->
+<!-- Seattle Central College            -->
+<!-- ITC 230 Advanced JavaScript        -->
+<!-- Assignment 6                       -->
+<!--                                    -->
+<!-- Derek S Wilson                     -->
+<!--                                    -->
+<!--                                    -->
+<html>
+<head>
+  <title>Search for Seattle Public Art</title>
+  <link rel="stylesheet" href='submit.css'/>
+</head>
+<body>
+<div id='page'>
+	
+  <!--Make form to get data for the to be added document -->
+  <form id = 'add-art-title' method="POST" action='/add-art-title'>
+    <fieldset>
+      <legend>Seattle Public Art Add Title</legend>
+      
+      <!-- Title, Artist, Description, and Address Input -->
+      <div class='inputs'>
+      
+      {{!-- The input prompt labels --}}
+      <label for='artTitle'>Enter Art Title:</label>
+      <label for='artArtist'>Enter Art Artist:</label>
+      <label for='artDescription'>Enter Art Description</label>
+      <label for='artAddress'>Enter Art Address:</label>
+      
+      {{!-- The input fields --}}
+      <input type='text' id='artTitle' name='artTitle' autofocus>
+      <input type='text' id='artArtist' name='artArtist'>
+      <input type='text' id='artDescription' name='artDescription'>
+      <input type='text' id='artAddress' name='artAddress'>
+      
+      <input id='search' type='submit' value='Save' />
+      
+      </div>
+      
+      <!--    Button -->
+      <div class='buttons'>
+
+      </div>
+    </fieldset>
+  </form>      
+  
+  <h3>Added {{Title}}       <br />
+            {{Artist}}      <br />
+            {{Description}} <br />
+            {{Address}}     <br />
+  </h3>
+
+{{{body}}}
+</div>
+</body>
+</html>

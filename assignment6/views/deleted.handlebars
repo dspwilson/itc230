@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--deleted.handlebars                           -->
+<!--                                    -->
+<!-- April 2017                         -->
+<!--                                    -->
+<!-- Seattle Central College            -->
+<!-- ITC 230 Advanced JavaScript        -->
+<!-- Assignment 3                       -->
+<!--                                    -->
+<!-- Derek S Wilson                     -->
+<!--                                    -->
+<!--                                    -->
+<html>
+<head>
+  <title>Seattle Public Art Title Deleted</title>
+  <link rel="stylesheet" href='home.css'/>
+</head>
+<body>
+  <div id="page">
+	<h2>Deleted {{Title}}</h2>
+  {{#if deleteArtResult.numDeleted}}
+    <h3>Deleted {{Title}}.  {{deleteArtResult.newLength}} Art objects remain.</h3>
+  {{else}}
+    {{ Title }} not found.
+  {{/if}}
+  </div>
+
+  {{{body}}}
+
+</body>
+</html>
